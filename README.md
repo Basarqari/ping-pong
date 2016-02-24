@@ -1,4 +1,4 @@
-# PING-POMG
+# PING-PONG
 The Game which Loves you
 
 #CREATED WITH
